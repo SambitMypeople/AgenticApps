@@ -1,0 +1,28 @@
+:root {
+  --mp-white: #ffffff;
+  --mp-black: #000000;
+  --mp-bg: #f8f9fa;
+  --mp-body-text: #333333;
+  --mp-link-text: #0066cc;
+  --mp-primary: #0f62fe;
+  --mp-primary-hover: #0353e9;
+  --mp-button-text: #ffffff;
+  --mp-secondary: #393939;
+  --mp-secondary-hover: #474747;
+  --mp-menu-bg: #ffffff;
+  --mp-menu-font-text: #161616;
+  --mp-menu-bottom-line: #e0e0e0;
+  --mp-border: #c6c6c6;
+  --mp-header-light-bg: #f4f4f4;
+  --mp-header-dark-bg: #262626;
+  --mp-footer-bg: #161616;
+  --mp-footer-font-text: #f4f4f4;
+
+  /* Fallback static properties */
+  --mp-font-sans-serif: 'Inter', system-ui, sans-serif;
+  --mp-body-font-family: var(--mp-font-sans-serif);
+  --mp-body-font-size: 16px;
+  --mp-body-font-weight: 400;
+  --mp-body-line-height: 1.5;
+  --mp-body-text-align: left;
+}

@@ -1,0 +1,24 @@
+<configuration>
+  <assets>
+  </assets>
+  <tokens>
+    <token name="mp-white" value="#ffffff" />
+    <token name="mp-black" value="#000000" />
+    <token name="mp-bg" value="#f8f9fa" />
+    <token name="mp-body-text" value="#333333" />
+    <token name="mp-link-text" value="#0066cc" />
+    <token name="mp-primary" value="#0f62fe" />
+    <token name="mp-primary-hover" value="#0353e9" />
+    <token name="mp-button-text" value="#ffffff" />
+    <token name="mp-secondary" value="#393939" />
+    <token name="mp-secondary-hover" value="#474747" />
+    <token name="mp-menu-bg" value="#ffffff" />
+    <token name="mp-menu-font-text" value="#161616" />
+    <token name="mp-menu-bottom-line" value="#e0e0e0" />
+    <token name="mp-border" value="#c6c6c6" />
+    <token name="mp-header-light-bg" value="#f4f4f4" />
+    <token name="mp-header-dark-bg" value="#262626" />
+    <token name="mp-footer-bg" value="#161616" />
+    <token name="mp-footer-font-text" value="#f4f4f4" />
+  </tokens>
+</configuration>
